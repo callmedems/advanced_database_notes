@@ -8,7 +8,7 @@
 - Every week, I must submit the notes written for the class into a pull request into my main branch. The professor will check it and according to his feedback (if given) I will improve my notes and pull a request again. 
 
 ## What is still confusing
-- 
+- I'm trying to put professor as reviewer for every pull request.
 
 ## Questions
 - 
