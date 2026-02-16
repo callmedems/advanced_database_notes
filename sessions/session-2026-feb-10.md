@@ -1,7 +1,7 @@
 # Session – 2026 - 02 - 10
 
-## SQL OVERVIEW
-- 
+## Topics Covered
+- sql basics: WHERE BY, ORDERED BY, FROM, operators...
 
 ## What I understood
 - An overview of what it is expected regarding class' notes in my repository.
