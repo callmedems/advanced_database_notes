@@ -1,0 +1,1 @@
+- i was having problems with INNER JOIN because i didn't use correct indentation
