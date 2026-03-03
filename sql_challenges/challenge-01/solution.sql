@@ -1,0 +1,14 @@
+-- FIRST TASK SOLUTION
+SELECT Title FROM movies;
+
+-- SECOND TASK SOLUTION
+SELECT Director FROM movies;
+
+-- THIRD TASK SOLUTION
+SELECT Title, Director FROM movies;
+
+-- FOURTH TASK SOLUTION
+SELECT Title, Year FROM movies;
+
+-- FIFTH TASK SOLUTION
+SELECT * FROM movies;
