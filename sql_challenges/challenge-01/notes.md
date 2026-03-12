@@ -1,1 +1,1 @@
-- nothing to annotate right now
+- first five lessons done in first class
