@@ -1,16 +1,17 @@
-# Session – 2026-02-24
+# Session – 2026-03-24
+- 
 
 ## Topics covered
-- Aggregate functions in SQL 
+- triggers
 
 ## What I understood
-- to summarize rows of data with aggregate functions
+- bases for improving and automating a db system
 
 ## What is still confusing
-- for the moment, all is clear
+- it was a little confusing at first to understand the initial db schema
 
 ## Questions
-- no questions at the moment
+- at the moment, no
 
 ## Related concepts
 - [Concept name](../concepts/concept-name.md)
