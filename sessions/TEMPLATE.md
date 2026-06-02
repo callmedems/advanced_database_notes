@@ -10,7 +10,7 @@
 -
 
 ## Questions
-- no questions at the moment
+-
 
 ## Related concepts
 - [Concept name](../concepts/concept-name.md)
