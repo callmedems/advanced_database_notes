@@ -7,10 +7,10 @@
 - 
 
 ## What is still confusing
--
+- 
 
 ## Questions
--
+- 
 
 ## Related concepts
 - [Concept name](../concepts/concept-name.md)
